@@ -1,3 +1,5 @@
+*NOTE*: This is a modified repository for vim-bundle-mako, with added file
+detection for templating in Nikola ("*.tmpl" file)
 This project is a colleciton of vim scripts that relate  to the Mako templating
 engine for python. Most of thse are not at all written by me, just packaged
 here from the vim-script site. The purpose is to make them easy to use with
